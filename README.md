@@ -7,23 +7,6 @@ My work sits at the intersection of **APIs, cloud infrastructure, web automation
 
 ---
 
-## 🚀 What I’m Working On
-- Building **scalable, production-grade backend systems** using **FastAPI, Node.js, and Python**
-- Developing **automation & web scraping platforms** with AI-assisted workflows
-- Designing **API-first architectures** for multi-platform products (Web, WhatsApp, Telegram, Instagram)
-- Deploying containerized applications using **Docker** and cloud services on **AWS**
-
----
-
-## 🤝 Open to Collaborate On
-- **Containerized applications** (Docker, CI/CD, infra automation)
-- **Serverless systems** (AWS Lambda, event-driven architectures)
-- **REST & GraphQL APIs** at scale
-- **Data engineering pipelines**, real-time processing, and analytics systems
-- AI-assisted automation tools and browser-based agents
-
----
-
 ## 📚 Currently Learning / Improving
 - Advanced **data engineering** (stream processing, big data engines)
 - **Security, governance, and compliance** in distributed systems
@@ -35,7 +18,6 @@ My work sits at the intersection of **APIs, cloud infrastructure, web automation
 ## 💬 Ask Me About
 - Designing and optimizing **FastAPI & Node.js backends**
 - Building **API-driven React / Next.js applications**
-- Cloud deployments on **AWS**
 - Web automation, scraping architectures, and data extraction systems
 - Turning complex systems into simple, user-friendly products
 
