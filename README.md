@@ -75,4 +75,4 @@ When I’m not coding, I experiment with **web scraping, browser automation, and
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=prinzeval&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=prinzeval&icon=0&color=0)](https://visitcount.itsvg.in) 
