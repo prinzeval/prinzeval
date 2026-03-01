@@ -54,12 +54,11 @@ Currently working on:
 
 ## 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=prinzeval&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=prinzeval&show_icons=true&theme=dark&cache_seconds=1800)
 
 ![Streak](https://streak-stats.demolab.com?user=prinzeval&theme=dark)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prinzeval&layout=compact&theme=dark)
-
 ---
 
 ## 🎯 Main Project
