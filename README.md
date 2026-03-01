@@ -1,12 +1,118 @@
-# 💫 About Me:
-👋Hi, I'm Josiah Opaleke<br>🎨I'm a Full-Stack Developer<br>🌱 I’m currently learning Web development and Mobile Development<br>📫Contact me opalekejoziah@gmail.com
+# 👋 Hi, I'm Valentine
 
+🚀 Full-Stack & AI Developer  
+🧠 Builder of intelligent automation systems  
+💻 Founder of **Valendata – AI Web Automation Platform**
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-#
-![](https://github-readme-stats.vercel.app/api?username=heispapijay&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=heispapijay&theme=dark&hide)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=heispapijay&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+I specialize in building scalable software, AI-powered systems, and advanced web automation tools.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## 🚀 About Me
+
+- 💻 Full-Stack Developer
+- 🤖 AI & Automation Engineer
+- 🌐 Building large-scale SaaS platforms
+- 🧠 Focused on intelligent web automation
+- ⚙️ Backend & system architecture enthusiast
+
+### Current Projects
+
+- **Valendata**
+  - AI-powered web scraping platform
+  - Intelligent browser automation
+  - Config-based scraping APIs
+  - Automation agents
+
+- AI Automation Tools
+- Web Scraping Systems
+- SaaS Platforms
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+
+- React
+- TypeScript
+- JavaScript
+- HTML
+- CSS
+
+### Backend
+
+- Node.js
+- Python
+- FastAPI
+- REST APIs
+
+### Tools & Systems
+
+- Docker
+- Git
+- Linux
+- Electron
+- Browser Automation
+
+### AI & Automation
+
+- AI Agents
+- LLM Integration
+- Web Automation
+- Data Extraction
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=dark)
+
+---
+
+## 🎯 What I'm Building
+
+### Valendata
+
+Valendata is an AI-powered platform that allows users to:
+
+- Extract data from any website
+- Automate browsing tasks
+- Build scraping APIs
+- Create automation agents
+- Schedule jobs
+- Sell scraping configurations
+
+---
+
+## 📫 Contact
+
+- Email: your-email@gmail.com
+- GitHub: https://github.com/YOUR_USERNAME
+
+---
+
+## ⚡ Philosophy
+
+> Build systems that scale.
+>
+> Automate everything.
+>
+> Data is power.
+
+---
+
+## 🔥 Goals
+
+- Build world-class AI products
+- Create large-scale SaaS platforms
+- Push automation to the next level
+- Build billion-dollar technology
+
+---
+
+⭐ Always building.
