@@ -1,39 +1,33 @@
 # 👋 Hi, I'm Valentine
 
 🚀 Full-Stack & AI Developer  
-🧠 Builder of intelligent automation systems  
-💻 Founder of **Valendata – AI Web Automation Platform**
-
-I specialize in building scalable software, AI-powered systems, and advanced web automation tools.
+🧠 Builder of AI systems & automation tools  
+💻 Founder of Valendata
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Full-Stack Developer
-- 🤖 AI & Automation Engineer
-- 🌐 Building large-scale SaaS platforms
-- 🧠 Focused on intelligent web automation
-- ⚙️ Backend & system architecture enthusiast
+- 🤖 AI Engineer
+- 💻 Full-stack Developer
+- 🌐 SaaS Builder
+- 🧠 Automation Specialist
+- ⚙️ System Architect
 
-### Current Projects
+I build intelligent software and automation systems.
 
-- **Valendata**
-  - AI-powered web scraping platform
-  - Intelligent browser automation
-  - Config-based scraping APIs
-  - Automation agents
+Currently working on:
 
-- AI Automation Tools
-- Web Scraping Systems
-- SaaS Platforms
+- AI Web Automation
+- Web Scraping Platforms
+- SaaS Systems
+- AI Agents
 
 ---
 
 ## 🛠 Tech Stack
 
 ### Frontend
-
 - React
 - TypeScript
 - JavaScript
@@ -41,77 +35,55 @@ I specialize in building scalable software, AI-powered systems, and advanced web
 - CSS
 
 ### Backend
-
 - Node.js
 - Python
 - FastAPI
-- REST APIs
 
-### Tools & Systems
-
+### Systems
 - Docker
-- Git
 - Linux
 - Electron
-- Browser Automation
 
-### AI & Automation
-
+### AI
 - AI Agents
+- Automation
+- Web Scraping
 - LLM Integration
-- Web Automation
-- Data Extraction
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=prinzeval&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Streak](https://streak-stats.demolab.com?user=prinzeval&theme=dark)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=YOUR_USERNAME&theme=dark)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prinzeval&layout=compact&theme=dark)
 
 ---
 
-## 🎯 What I'm Building
+## 🎯 Main Project
 
 ### Valendata
 
-Valendata is an AI-powered platform that allows users to:
+AI-powered web automation and scraping platform.
 
-- Extract data from any website
-- Automate browsing tasks
+Features:
+
+- Extract data from websites
+- Automate browsers
 - Build scraping APIs
-- Create automation agents
-- Schedule jobs
-- Sell scraping configurations
-
----
-
-## 📫 Contact
-
-- Email: your-email@gmail.com
-- GitHub: https://github.com/YOUR_USERNAME
+- AI automation agents
 
 ---
 
 ## ⚡ Philosophy
 
-> Build systems that scale.
->
-> Automate everything.
->
-> Data is power.
+Build systems that scale.
 
----
+Automate everything.
 
-## 🔥 Goals
-
-- Build world-class AI products
-- Create large-scale SaaS platforms
-- Push automation to the next level
-- Build billion-dollar technology
+Data is power.
 
 ---
 
