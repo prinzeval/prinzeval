@@ -2,7 +2,6 @@
 
 🚀 Full-Stack & AI Developer  
 🤖 Building AI automation systems  
-💻 Founder of Valendata
 
 Focused on:
 
