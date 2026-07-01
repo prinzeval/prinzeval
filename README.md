@@ -1,14 +1,21 @@
 # 👋 Hi, I'm Valentine
 
-🚀 Full-Stack & AI Developer  
-🤖 Building AI automation systems  
+💻 Full-Stack Software Engineer  
+🌍 Building web, mobile, and AI-powered applications
 
-Focused on:
+Currently working on:
+- ⚛️ Modern Web Applications
+- 📱 Cross-platform Mobile Apps
+- 🤖 AI Integrations & Automation
+- ☁️ Scalable Backend Systems
 
-- AI Agents
-- Web Automation
-- SaaS Systems
-- Web Scraping
+Outside of work, I spend an unreasonable amount of time researching browser automation, AI agents, and what the road to AGI might look like. (My browser history is probably 80% documentation. 😅)
+
+---
+
+## 🛠 Tech
+
+TypeScript • React • React Native • Node.js • FastAPI • Python • PostgreSQL • Docker • AWS
 
 ---
 
