@@ -3,7 +3,7 @@
 💻 Full-Stack Software Engineer — TypeScript & Python  
 🤖 I build AI agents, browser automation that beats anti-bot protection, and real-time backends that scale
 
-📫 [Email](mailto:valentineallpowers@gmail.com) · [LinkedIn](https://linkedin.com/in/onuoha-valentine) · [Portfolio](https://portfolio-7zqw.onrender.com/)
+📫 [Email](mailto:valentineallpowers@gmail.com) · [LinkedIn](https://linkedin.com/in/onuoha-valentine) 
 
 Outside of work, I spend an unreasonable amount of time researching browser automation, AI agents, and what the road to AGI might look like. (My browser history is probably 80% documentation. 😅)
 
